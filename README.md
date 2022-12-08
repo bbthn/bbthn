@@ -2,7 +2,7 @@
 
 I'm Batuhan, a full-stack developer.
 
-- 🌱 I’m currently learning ASP.NET, Angular
+- 🌱 I’m currently developing ASP.NET, Angular. 
 - 📫 How to reach me: bbatuhanbatumlu@gmail.com
 
 
