@@ -2,7 +2,7 @@
 
 I'm Batuhan, a full-stack developer.
 
-- 🌱 I’m currently developing ASP.NET, React. 
+- 🌱 I’m currently developing .Net Core, React. 
 - 📫 How to reach me: bbatuhanbatumlu@gmail.com
 
 
