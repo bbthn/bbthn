@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-I'm Batuhan, a full-stack developer.
+I'm Batuhan
 
-- 🌱 I’m currently developing .Net, React. 
 - 📫 How to reach me: bbatuhanbatumlu@gmail.com
 
 
